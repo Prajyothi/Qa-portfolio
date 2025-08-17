@@ -10,7 +10,6 @@ This repository showcases my **manual testing practice projects**, including bug
 - Documented issues using a structured template.
 - Includes:
   - [Bug Report Portfolio PDF](./Bug_Reports/Bug_Report_Portfolio.pdf)
-  - [Bug Report Template Excel](./Bug_Reports/Bug_Report_Template.xlsx)
   - Sample bug reports in Markdown (e.g., `BUG-001_Checkout_Button.md`)
 
 ### Test Cases
