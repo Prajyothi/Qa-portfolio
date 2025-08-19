@@ -15,7 +15,7 @@ This repository showcases my **manual testing practice projects**, including bug
 ### Test Cases
 - Sample manual test cases designed for OpenCart demo site.
 - Includes:
-  - https://github.com/Prajyothi/Qa-portfolio/blob/main/E-commerce_project.xlsx
+  - [📊 Test Case Excel Sheet](./E-commerce_project.xlsx)
   - Sample test case Markdown files
 
 ### Projects
