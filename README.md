@@ -10,25 +10,19 @@ This repository showcases my **manual testing practice projects**, including bug
 - Sample manual test cases designed for OpenCart demo site.
 - Includes:
   - [📊 Test Case Excel Sheet](./E-commerce_project.xlsx)
-  - Sample test case Markdown files
-
 
 ### Bug Reports
 - Documented issues using a structured template.
 - Includes:
-  - [Bug Report Portfolio PDF](./Bug_Reports/Bug_Report_Portfolio.pdf)
-  - Sample bug reports in Markdown (e.g., `BUG-001_Checkout_Button.md`)
+  - [Bug Report_PDF](./BUG_Report.pdf)
 
 ### Projects
 **Manual Testing Project – OpenCart E-Commerce Demo (2023)**
-- Designed and executed 20+ manual test cases covering login, product search, cart, and checkout workflows.
+- Designed and executed 20+ manual test cases covering login, product search, and Add to cart workflows.
 - Reported and documented bugs using a structured bug report template.
-- Identified UI/UX issues, boundary value errors, and negative test scenarios.
   
 ## 🔗 Live Demo Sites Used
 - OpenCart Demo: [https://demo.opencart.com](https://demo.opencart.com)
-- LibreOffice: [https://www.libreoffice.org](https://www.libreoffice.org)
-- GIMP: [https://www.gimp.org](https://www.gimp.org)
 
 ## 📄 Notes
 - Resume and detailed Bug Report Portfolio are also available upon request.
