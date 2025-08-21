@@ -25,5 +25,4 @@ This repository showcases my **manual testing practice projects**, including bug
 - OpenCart Demo: [https://demo.opencart.com](https://demo.opencart.com)
 
 ## 📄 Notes
-- Resume and detailed Bug Report Portfolio are also available upon request.
 - This portfolio demonstrates my hands-on experience in **manual testing, defect reporting, and test case design**.
